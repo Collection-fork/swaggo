@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/teambition/swaggo/swagger"
+	"github.com/Collection-fork/swaggo/swagger"
 )
 
 // method the method of controllor

@@ -11,7 +11,7 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/teambition/swaggo/swagger"
+	"github.com/Collection-fork/swaggo/swagger"
 	yaml "gopkg.in/yaml.v2"
 )
 

@@ -5,7 +5,7 @@ import (
 	"go/ast"
 	"go/token"
 
-	"github.com/teambition/swaggo/swagger"
+	"github.com/Collection-fork/swaggo/swagger"
 )
 
 // resource api resource

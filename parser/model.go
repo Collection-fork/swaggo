@@ -8,7 +8,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/teambition/swaggo/swagger"
+	"github.com/Collection-fork/swaggo/swagger"
 )
 
 // feature if the expression is an anonymous member or an anonymous struct
