@@ -4,7 +4,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/teambition/swaggo/parser"
+	"github.com/Collection-fork/swaggo/parser"
 	"github.com/urfave/cli"
 )
 
