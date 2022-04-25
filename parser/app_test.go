@@ -5,7 +5,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/suite"
-	"github.com/teambition/swaggo/swagger"
+	"github.com/Collection-fork/swaggo/swagger"
 )
 
 func TestErrorPath(t *testing.T) {
